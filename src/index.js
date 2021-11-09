@@ -1,5 +1,5 @@
 var rtmp = "rtmp://broadcast.api.video/s/82e5da80-e6fd-4f3c-9d6d-80349a42c10c";
-
+require('dotenv').config();
 //import express from 'express';
 const express = require('express');
 //express for the website and pug to create the pages
