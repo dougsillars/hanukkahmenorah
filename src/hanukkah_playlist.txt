@@ -1,13 +1,36 @@
+ffconcat version 1.0
 # this is a 9 hour playlist
 file 'https://cdn.api.video/vod/vi5JWBfGczMjsDVGSfzL1o42/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
+
 file 'https://cdn.api.video/vod/vi2SIMLQhoS93okNpmyxQ0ae/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
+
 file 'https://cdn.api.video/vod/vi7OTtFsZRGSelnZXvt3eYQy/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi4z4RuXw38jbSutp680fr3t/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi2AjitlN7ajlGl70a8NkxbI/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi3V2GVkYT3DuaKYmUJvwIKl/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi4qUszwE5sENlGO3nQsS3W8/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi6e3tFLALdZQvsBlgAJd1kb/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
 file 'https://cdn.api.video/vod/vi3iVDZ42qZAYAM35NIlG2rt/mp4/1080/source.mp4'
+inpoint 0.0
+outpoint 3600.0
+
+
 #repeat 2x more
 file 'https://cdn.api.video/vod/vi5JWBfGczMjsDVGSfzL1o42/mp4/1080/source.mp4'
 file 'https://cdn.api.video/vod/vi2SIMLQhoS93okNpmyxQ0ae/mp4/1080/source.mp4'
