@@ -48,7 +48,7 @@ app.get ('/start', (req,res) => {
 		
 		var ops = ['-re',
 			'-f', 'concat', '-safe', 0,'-protocol_whitelist', 'file,https,tls,tcp','-i', 'src/hanukkah_playlist.txt' ,
-			  '-c', 'copy', 
+			  '-c', 'copy', '-bufsize', '3500k',
 				'-f', 'flv', rtmpDestination		
 		];
 
